@@ -1,0 +1,6 @@
+# Exact versions used to produce the #4 solution. Python 3.12.13. CPU only, no GPU.
+lightgbm==4.6.0
+pandas==2.3.3
+numpy==2.4.3
+scikit-learn==1.6.1
+pyarrow==23.0.1

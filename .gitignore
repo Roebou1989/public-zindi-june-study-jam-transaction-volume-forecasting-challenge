@@ -1,0 +1,21 @@
+# Competition data - NOT redistributable, download from Zindi (see data/README.md)
+data/*
+!data/README.md
+!data/.gitignore
+
+# Reproduced output (the committed winning file is kept; local re-runs are not)
+submissions/*_REPRO.csv
+submissions/solution_exec*
+
+# Notebook execution scratch
+solution_exec.ipynb
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
